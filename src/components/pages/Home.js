@@ -16,18 +16,22 @@ class Home extends React.Component {
             </div>
             <div className="input">
               <input type="checkbox" />
-              <label>Crafts & Hobbies</label>
+              <label>Food & Drink</label>
             </div>
             <div className="input">
               <input type="checkbox" />
-              <label>Education & Teachers</label>
+              <label>History & Reference</label>
+            </div>
+            <div className="input">
+              <input type="checkbox" />
+              <label>Pregnancy & Parenting</label>
             </div>
           </div>
 
           <div className="col-md-3">
             <div className="input">
               <input type="checkbox" />
-              <label>Food & Drink</label>
+              <label>Crafts & Hobbies</label>
             </div>
             <div className="input">
               <input type="checkbox" />
@@ -35,40 +39,33 @@ class Home extends React.Component {
             </div>
             <div className="input">
               <input type="checkbox" />
-              <label>Health & Fitness</label>
-            </div>
-          </div>
-
-          <div className="col-md-3">
-            <div className="input">
-              <input type="checkbox" />
-              <label>History & Refernce</label>
-            </div>
-            <div className="input">
-              <input type="checkbox" />
               <label>LEGO&reg; Books</label>
             </div>
             <div className="input">
               <input type="checkbox" />
-              <label>Marvel</label>
+              <label>Star Wars&trade;</label>
             </div>
           </div>
 
           <div className="col-md-3">
             <div className="input">
               <input type="checkbox" />
-              <label>Pregnancy & Parenting</label>
+              <label>Education & Teachers</label>
             </div>
             <div className="input">
               <input type="checkbox" />
-              <label>Star Wars&trade;</label>
+              <label>Health & Fitness</label>
+            </div>
+            <div className="input">
+              <input type="checkbox" />
+              <label>Marvel</label>
             </div>
             <div className="input">
               <input type="checkbox" />
               <label>Travel</label>
             </div>
           </div>
-          
+
         </div>
       </div>
     )
