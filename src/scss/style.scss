@@ -7,7 +7,48 @@
 }
 
 .input {
-  border: 1px solid black;
   margin: 5px;
   padding-left: 2px;
+}
+
+.form {
+  padding-left: 25%;
+}
+
+body {
+  background-color: #b4d8e6;
+}
+
+form {
+  input{
+    margin: 2px;
+
+  }
+}
+
+.row {
+  padding-left: 25%;
+}
+
+.background {
+  background-color: #c3ff5b;
+  background-size: cover;
+}
+
+.succ {
+  color: white;
+  text-align: center;
+}
+
+.thanks {
+  text-align: center;
+}
+
+.name {
+  margin-left: 15%;
+}
+
+.email {
+  display: block;
+  margin-left: 25%;
 }

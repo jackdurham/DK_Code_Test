@@ -4,9 +4,9 @@ class Thankyou extends React.Component {
 
   render() {
     return(
-      <div>
-        <h1>Success!</h1>
-        <h2>Thank you for signing up to our newsletter.</h2>
+      <div className="background">
+        <h1 className="succ">Success!</h1>
+        <h2 className="thanks">Thank you for signing up to our newsletter.</h2>
       </div>
     );
   }
